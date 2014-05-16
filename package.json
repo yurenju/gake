@@ -1,0 +1,11 @@
+{
+  "name": "gake",
+  "version": "0.1.0",
+  "author": "Yuren Ju <yurenju@gmail.com>",
+  "dependencies": {
+    "shelljs": "~0.2.6"
+  },
+  "bin": {
+    "gake": "./bin/gake.js"
+  }
+}
